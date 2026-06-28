@@ -1,0 +1,3 @@
+# Incident Response SOP
+
+Purpose: manage safety, fraud, privacy, payment, or reputation incidents. Inputs: alert, ticket, monitoring signal. Outputs: containment, user communication, root cause, corrective action. Roles: incident commander, legal, support, engineering, communications, operations. Process: triage severity, contain harm, preserve evidence, notify stakeholders, resolve, document, and run postmortem. Escalation: executive and counsel for severe incidents. KPIs: time to detect, time to contain, recurrence rate. Risks: delayed reporting, incomplete evidence, inconsistent customer messaging. Checklist: severity, owner, timeline, data, communication, fix, postmortem.
